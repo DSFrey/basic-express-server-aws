@@ -9,7 +9,8 @@ A basic server to practice middleware and testing.
 ## Links and Resources
 
 - [ci/cd](https://github.com/DSFrey/basic-express-server/actions)
-- [server url]()
+- [GUI deploy](http://basicexpressserverguideploy-env.eba-yd6if2qy.us-east-2.elasticbeanstalk.com/)
+- [CLI deploy](http://basic-express-server-cli-deploy-dev.us-east-2.elasticbeanstalk.com/)
 
 ## Setup
 
